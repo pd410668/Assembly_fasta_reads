@@ -1,4 +1,4 @@
-# Assembly_fasta_reads
+# Assembly fasta reads
 Iterative algorithm for assembling fasta reads.
 
 # Algorithm
